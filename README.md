@@ -9,7 +9,3 @@ git remote add origin https://github.com/flaviussteff/Laborator-ACS.git
 git push -u origin main
 
 
-
-G=TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
-ghp_cBdF02vz9RMNiD9fVEeisCU8iizqwl1M956T
-G=TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
